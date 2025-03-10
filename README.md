@@ -2,13 +2,13 @@
 
 ___________________________________________________________________________________________________________________________________________________________________________________________
 ## Activities and Tasks
-1.  **Data Exploration & Summary** – Imported dataset & computed key statistics
-2.  **Gender-based Analysis** – Visualized investment preferences by gender
-3.  **Objective Analysis** – Explored correlation between savings objectives & investments
-4.  **Investment Duration & Frequency** – Analyzed time-based patterns
-5.  **Reasons for Investment** – Identified key motivators for investment decisions
-6.  **Source of Information** – Analyzed where investors get data from
-7.  **Comprehensive Dashboard** – Integrated insights into an interactive Power BI report
+* **Task 1 - Data Exploration & Summary**
+*  **Task 2 - Gender-based Analysis**
+*  **Task 3 - Objective Analysis**
+*  **Task 4 - Investment Duration & Frequency**
+*  **Task 5 - Reasons for Investment**
+*  **Task 6 - Source of Information**
+*  **Task 7 - Combine Insights into a Dashboard** 
    
 ___________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -18,13 +18,13 @@ The internship project at Cognifyz Technologies focuses on analyzing investment 
 ___________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Features
-* Data import and exploratory analysis
-* Gender-based investment trend analysis
-* Correlation between investment choices and savings objectives
-* Investment duration and monitoring frequency study
-* Trend analysis of reasons for investment
-* Sources of financial information assessment
-* Comprehensive dashboard development
+1.  **Data Exploration & Summary** – Imported dataset & computed key statistics
+2.  **Gender-based Analysis** – Visualized investment preferences by gender
+3.  **Objective Analysis** – Explored correlation between savings objectives & investments
+4.  **Investment Duration & Frequency** – Analyzed time-based patterns
+5.  **Reasons for Investment** – Identified key motivators for investment decisions
+6.  **Source of Information** – Analyzed where investors get data from
+7.  **Comprehensive Dashboard** – Integrated insights into an interactive Power BI report
   
 ___________________________________________________________________________________________________________________________________________________________________________________________
 
